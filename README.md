@@ -15,6 +15,6 @@ Title States it All.
   * Screenshot of your new UI screen open in-game
 
 # Notes
-   * Use the base NUI via github as a starting point
-   * After getting a new repo via ```git clone https://github.com/MovingBlocks/Terasology.git``` ./gradlew idea needed to be run to re initialize the terasology file for IntelliJ Idea to use Terasology.ipr 
-
+  * Use the base NUI via github as a starting point
+  * After getting a new repo via ```git clone https://github.com/MovingBlocks/Terasology.git``` ./gradlew idea needed to be run to re initialize the terasology file for IntelliJ Idea to use Terasology.ipr
+  * Attempted to get the sample directory by using the command ```git clone https://github.com/Terasology/Sample.git``` while in the Terasology. I decided to move the newly downloaded file into the 'Modules' directory.
