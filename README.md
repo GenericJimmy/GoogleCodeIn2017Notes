@@ -2,7 +2,8 @@
 Title States it All.
 
 # References
-(https://guides.github.com/features/mastering-markdown/)
+* Syntax Help
+ * https://guides.github.com/features/mastering-markdown/
 
 # Task: Develop a simple interface screen
 * Objectives
