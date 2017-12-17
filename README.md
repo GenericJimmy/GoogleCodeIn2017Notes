@@ -3,7 +3,7 @@ Title States it All.
 
 # References
 * Syntax Help
- * https://guides.github.com/features/mastering-markdown/
+   * https://guides.github.com/features/mastering-markdown/
 
 # Task: Develop a simple interface screen
 * Objectives
