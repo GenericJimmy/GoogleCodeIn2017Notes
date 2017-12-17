@@ -4,6 +4,7 @@ Title States it All.
 # References
 * Syntax Help
    * https://guides.github.com/features/mastering-markdown/
+   * https://github.com/MovingBlocks/Terasology/wiki/Developing-Modules#fetch-an-existing-module
 
 # Task: Develop a simple interface screen
 * Objectives
