@@ -15,4 +15,5 @@ Title States it All.
   * Screenshot of your new UI screen open in-game
 
 # Notes
-  * 
+    * Use the base NUI via github as a starting point
+    * 
